@@ -1,0 +1,22 @@
+/* Write your code here. */
+.list-item {
+  margin-right: 5px;
+}
+
+.thumb-nail-image {
+  opacity: 0.5;
+}
+
+.active-thumb-nail {
+  opacity: 1;
+}
+
+.list-item {
+  text-align: left;
+}
+
+.button-styling {
+  outline: none;
+  border: 0px;
+  background-color: transparent;
+}
